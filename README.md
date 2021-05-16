@@ -1,2 +1,0 @@
-# CODES
-ThisIsMyFirstRepository
